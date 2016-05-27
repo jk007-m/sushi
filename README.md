@@ -13,4 +13,3 @@ is a programming language with which you can manipulate images and video
   * Eaxmple code
   * tests
   * etc.
-  * 
